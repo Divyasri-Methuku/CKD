@@ -3,6 +3,8 @@ pandas
 numpy
 bcrypt
 google-generativeai
-catboost
+catboost==1.2.2
 scikit-learn
 xgboost
+matplotlib
+seaborn
